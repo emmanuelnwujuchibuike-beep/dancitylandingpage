@@ -40,7 +40,7 @@ ul{
 .logo {
     display: flex;
     align-items: center;
-    gap: 5px;
+    gap: 7px;
 }
 
 .btn {
@@ -65,7 +65,7 @@ ul{
     background-color: #1a511c;
 }
 .signup {
-    padding: 8px 15px;
+    padding: 9px 16px;
     background-color: #4CAF4F;
     color: white;
     border: none;
